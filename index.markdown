@@ -10,7 +10,7 @@ layout: default
     <a href="javascript:;" class="all-menu all-menu-tablet"><span class="hamburger"></span></a>
     <h1 class="logo" style="height: 100%;top: 0;text-align: center;">
       <a href="" title="Công ty Cổ phần Đầu tư Sakae">
-        <img src="/sakaevietnam/images/logo.png" style="height:100%" />
+        <img src="assets/images/logo.png" style="height:100%" />
       </a>
     </h1>
     <nav class="main-nav">
@@ -25,8 +25,8 @@ layout: default
     </nav>
     <div class="right-head">
       <div class="search-btn">
-        <svg class="icon-svg"><use xlink:href="/sakaevietnam/images/icons/icon.svg#search"></use></svg>
-        <svg class="icon-svg close"><use xlink:href="/sakaevietnam/images/icons/icon.svg#close2"></use></svg>
+        <svg class="icon-svg"><use xlink:href="assets/images/icons/icon.svg#search"></use></svg>
+        <svg class="icon-svg close"><use xlink:href="assets/images/icons/icon.svg#close2"></use></svg>
       </div>
       <div class="language">
           <a class="active" href="">VI</a>
@@ -53,7 +53,7 @@ layout: default
                             </h3>
                         </div>
                     </div>
-                    <img src="/sakaevietnam/images/banner02(5).jpg" />
+                    <img src="assets/images/banner02(5).jpg" />
                 </div>
             </div>
             <div class="swiper-slide">
@@ -64,7 +64,7 @@ layout: default
                             </h3>
                         </div>
                     </div>
-                    <img src="/sakaevietnam/images/banner03.jpg" />
+                    <img src="assets/images/banner03.jpg" />
                 </div>
             </div>
             <div class="swiper-slide">
@@ -75,7 +75,7 @@ layout: default
                             </h3>
                         </div>
                     </div>
-                    <img src="/sakaevietnam/images/banner01(2).jpg" />
+                    <img src="assets/images/banner01(2).jpg" />
                 </div>
             </div>
         </div>
@@ -86,15 +86,15 @@ layout: default
         <div class="line"></div>
         <!-- Add Arrows -->
         <div class="swiper-button-prev">
-            <svg class="icon-svg"><use xlink:href="/sakaevietnam/images/icons/icon.svg#arrow-left"></use></svg>
+            <svg class="icon-svg"><use xlink:href="assets/images/icons/icon.svg#arrow-left"></use></svg>
         </div>
         <div class="swiper-button-next">
-            <svg class="icon-svg"><use xlink:href="/sakaevietnam/images/icons/icon.svg#arrow-right"></use></svg>
+            <svg class="icon-svg"><use xlink:href="assets/images/icons/icon.svg#arrow-right"></use></svg>
         </div>
     </div>
 </section>
 <section class="section section-tongquan clearfix"
-    style="background-size: cover !important; background: url(/sakaevietnam/images/introbannerpc.jpg) center;">
+    style="background-size: cover !important; background: url(assets/images/introbannerpc.jpg) center;">
     <div class="container">
         <div class="title-category wow fadeInLeftSlow">
             <div class="label">Giới thiệu</div>
@@ -160,7 +160,7 @@ layout: default
             <div class="swiper-slide">
                 <div class="item">
                     <div class="thumb thumb_2x3">
-                        <img src="/sakaevietnam/images/Phoi%20canh%203%20-avatar.jpg">
+                        <img src="assets/images/Phoi%20canh%203%20-avatar.jpg">
                     </div>
                     <div class="content">
                         <div class="warp">
@@ -177,7 +177,7 @@ layout: default
             <div class="swiper-slide">
                 <div class="item">
                     <div class="thumb thumb_2x3">
-                        <img src="/sakaevietnam/images/Vlasta%20-%20Sam%20Son_anh%20dai%20dien.jpg">
+                        <img src="assets/images/Vlasta%20-%20Sam%20Son_anh%20dai%20dien.jpg">
                     </div>
                     <div class="content">
                         <div class="warp">
@@ -194,7 +194,7 @@ layout: default
             <div class="swiper-slide">
                 <div class="item">
                     <div class="thumb thumb_2x3">
-                        <img src="/sakaevietnam/images/thumbnail(1).png">
+                        <img src="assets/images/thumbnail(1).png">
                     </div>
                     <div class="content">
                         <div class="warp">
@@ -213,7 +213,7 @@ layout: default
             <div class="swiper-slide">
                 <div class="item">
                     <div class="thumb thumb_2x3">
-                        <img src="/sakaevietnam/images/thumbnailah.png">
+                        <img src="assets/images/thumbnailah.png">
                     </div>
                     <div class="content">
                         <div class="warp">
@@ -246,7 +246,7 @@ layout: default
                         <a class="thumb thumb_5x3"
                             href="/phat-trien-ben-vung/chien-luoc-quy-hoach-do-thi-ben-vung-cua-van-phu-invest-con-nguoi-lam-trung-tam-tu-nhien-lam-nen-tang"
                             title="Chiến lược quy hoạch đô thị bền vững của Văn Phú - Invest: Con người làm trung tâm, tự nhiên làm nền tảng">
-                            <img src="/sakaevietnam/images/Khu%20do%20thi%20over.png">
+                            <img src="assets/images/Khu%20do%20thi%20over.png">
                         </a>
                     </div>
                     <div class="content">
@@ -269,7 +269,7 @@ layout: default
                         <a class="thumb thumb_5x4"
                             href="/tin-tuc/chien-luoc-quy-hoach-do-thi-ben-vung-cua-van-phu-invest-con-nguoi-lam-trung-tam-tu-nhien-lam-nen-tang"
                             title="Chiến lược quy hoạch đô thị bền vững của Văn Phú - Invest: Con người làm trung tâm, tự nhiên làm nền tảng">
-                            <img src="/sakaevietnam/images/Khu%20do%20thi%20over.png">
+                            <img src="assets/images/Khu%20do%20thi%20over.png">
                         </a>
                     </div>
                     <div class="content">
@@ -290,7 +290,7 @@ layout: default
                         <a class="thumb thumb_5x4"
                             href="/tin-tuc/van-phu-invest-nhan-giai-thuong-danh-gia-propertyguru-vietnam-property-awards-2022"
                             title="Văn Phú - Invest nhận giải thưởng danh giá PropertyGuru Vietnam Property Awards 2022">
-                            <img src="/sakaevietnam/images/guru1.jpg">
+                            <img src="assets/images/guru1.jpg">
                         </a>
                     </div>
                     <div class="content">
@@ -328,7 +328,7 @@ layout: default
                         <a class="thumb thumb_5x4"
                             href="/thu-vien-anh/chiem-nguong-thiet-ke-doc-dao-cua-du-an-logistics"
                             title="Chiêm ngưỡng thiết kế độc đáo của dự án Logistics">
-                            <img src="/sakaevietnam/images/2.jpg">
+                            <img src="assets/images/2.jpg">
                         </a>
                     </div>
                     <div class="content">
@@ -346,7 +346,7 @@ layout: default
                         <a class="thumb thumb_5x4" href="/thu-vien-anh/artworks-tai-du-an-vlasta-sam-son"
                             title="Artworks tại dự án Vlasta - Sầm Sơn">
                             <img
-                                src="/sakaevietnam/images/z3505476400966_d129b6ac9859d5ebc8a531c4d266086e.jpg">
+                                src="assets/images/z3505476400966_d129b6ac9859d5ebc8a531c4d266086e.jpg">
                         </a>
                     </div>
                     <div class="content">
@@ -363,7 +363,7 @@ layout: default
                         <a class="thumb thumb_5x4" href="/2022/le-khanh-thanh-den-tho-vua-hung-thanh-pho-can-tho"
                             title="Lễ Khánh Thành Đền thờ Vua Hùng Thành phố Cần Thơ">
                             <img
-                                src="/sakaevietnam/images/20.JPG">
+                                src="assets/images/20.JPG">
                         </a>
                     </div>
                     <div class="content">
@@ -381,7 +381,7 @@ layout: default
                         <a class="thumb thumb_5x4"
                             href="/thu-vien-anh/kham-pha-van-phong-lam-viec-dam-chat-nghe-thuat-cua-van-phu-invest"
                             title="Khám phá văn phòng làm việc đậm chất nghệ thuật của Văn Phú - Invest">
-                            <img src="/sakaevietnam/images/VPI_Tranh%20NT%20(48).jpg">
+                            <img src="assets/images/VPI_Tranh%20NT%20(48).jpg">
                         </a>
                     </div>
                     <div class="content">
@@ -399,7 +399,7 @@ layout: default
                         <a class="thumb thumb_5x4" href="/2021/le-an-vi-den-tho-vua-hung-thanh-pho-can-tho"
                             title="Lễ An vị - Đền thờ Vua Hùng Thành phố Cần Thơ">
                             <img
-                                src="/sakaevietnam/images/File-175.jpg">
+                                src="assets/images/File-175.jpg">
                         </a>
                     </div>
                     <div class="content">
@@ -418,7 +418,7 @@ layout: default
                             href="/2021/le-ruoc-linh-khi-tu-den-tho-vua-hung-phu-tho-toi-den-tho-vua-hung-thanh-pho-can-tho"
                             title="Lễ rước Linh khí từ Đền thờ Vua Hùng Phú Thọ tới Đền thờ Vua Hùng Thành Phố Cần Thơ">
                             <img
-                                src="/sakaevietnam/images/File-277.jpg">
+                                src="assets/images/File-277.jpg">
                         </a>
                     </div>
                     <div class="content">
@@ -437,7 +437,7 @@ layout: default
                             href="/2021/chu-tich-quoc-hoi-nuoc-chxhcn-viet-nam-va-doan-lanh-dao-thanh-pho-can-tho-den-tham-kiem-tra-gan-bien-va-trong-cay-luu-niem"
                             title="Chủ tịch Quốc hội nước CHXHCN Việt Nam và đoàn Lãnh đạo Thành phố Cần Thơ đến thăm, kiểm tra, gắn biển và trồng cây lưu niệm">
                             <img
-                                src="/sakaevietnam/images/TABI3467.JPG">
+                                src="assets/images/TABI3467.JPG">
                         </a>
                     </div>
                     <div class="content">
@@ -456,7 +456,7 @@ layout: default
                         <a class="thumb thumb_5x4"
                             href="/thu-vien-anh/chu-tich-quoc-hoi-nuoc-chxhcn-viet-nam-vinh-danh-doanh-nghiep-co-nhieu-dong-gop-ho-tro-cho-cong-dong"
                             title="Chủ tịch Quốc hội nước CHXHCN Việt Nam vinh danh doanh nghiệp có nhiều đóng góp, hỗ trợ cho cộng đồng">
-                            <img src="/sakaevietnam/images/Anh%201_VPI.jpg">
+                            <img src="assets/images/Anh%201_VPI.jpg">
                         </a>
                     </div>
                     <div class="content">
@@ -475,7 +475,7 @@ layout: default
                         <a class="thumb thumb_5x4"
                             href="/thu-vien-anh/vpi-nhan-giai-top-50-nhan-hieu-noi-tieng-viet-nam"
                             title="VPI nhận giải &quot;Top 50 Nhãn hiệu nổi tiếng Việt Nam”">
-                            <img src="/sakaevietnam/images/Nhan%20hieu%20hang%20dau%20VN.jpg">
+                            <img src="assets/images/Nhan%20hieu%20hang%20dau%20VN.jpg">
                         </a>
                     </div>
                     <div class="content">
@@ -493,7 +493,7 @@ layout: default
                         <a class="thumb thumb_5x4"
                             href="/thu-vien-anh/the-van-phu-victoria-nhan-danh-hieu-du-an-hut-dong-tien-dau-tu"
                             title="The Van Phu - Victoria nhận danh hiệu Dự án hút dòng tiền đầu tư">
-                            <img src="/sakaevietnam/images/Du%20an%20hut%20dong%20tien.jpg">
+                            <img src="assets/images/Du%20an%20hut%20dong%20tien.jpg">
                         </a>
                     </div>
                     <div class="content">
@@ -511,7 +511,7 @@ layout: default
                         <a class="thumb thumb_5x4"
                             href="/thu-vien-anh/ubnd-tinh-ben-tre-trao-tang-bang-khen-cho-doanh-nghiep-co-nhieu-dong-gop-tich-cuc-trong-cong-tac-thien-nguyen-voi-muc-tieu-an-sinh-xa-hoi-tai-dia-phuong"
                             title="UBND tỉnh Bến Tre trao tặng bằng khen cho doanh nghiệp có nhiều đóng góp tích cực trong công tác thiện nguyện, với mục tiêu an sinh xã hội tại địa phương">
-                            <img src="/sakaevietnam/images/IMG_9583.JPG">
+                            <img src="assets/images/IMG_9583.JPG">
                         </a>
                     </div>
                     <div class="content">
@@ -530,7 +530,7 @@ layout: default
                         <a class="thumb thumb_5x4" href="/2019/khoi-cong-du-an-den-tho-vua-hung-thanh-pho-can-tho"
                             title="Khởi công dự án Đền thờ Vua Hùng Thành phố Cần Thơ">
                             <img
-                                src="/sakaevietnam/images/IMG_2111.JPG">
+                                src="assets/images/IMG_2111.JPG">
                         </a>
                     </div>
                     <div class="content">
