@@ -105,7 +105,7 @@ layout: default
             <h2>Giới thiệu Công ty</h2>
             <p>
             <p style="text-align:justify"><span style="font-size:11pt"><span style="background-color:white"><span
-                            style="color:#26282b">C&ocirc;ng ty Cổ phần Đầu tư Văn Ph&uacute; - Invest l&agrave; doanh
+                            style="color:#26282b">C&ocirc;ng ty Cổ phần Đầu tư Sakae l&agrave; doanh
                             nghiệp đầu tư bất động sản với h&agrave;ng chục dự &aacute;n tr&ecirc;n cả nước. Với mục
                             ti&ecirc;u chuy&ecirc;n t&acirc;m tạo gi&aacute; trị sống, c&ugrave;ng đội ngũ nh&acirc;n sự
                             chất lượng cao, C&ocirc;ng ty đ&atilde; v&agrave; đang tận t&acirc;m&nbsp;nghi&ecirc;n cứu
