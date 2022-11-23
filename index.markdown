@@ -19,14 +19,14 @@ layout: default
         <li><a href="/gioi-thieu" title="Giới thiệu">Giới thiệu</a></li>
         <li><a href="/du-an" title="Dự án">Dự án</a></li>
         <li><a href="/tin-tuc" title="Tin tức">Tin tức</a></li>
-        <li><a href="/phong-cach-xu-huong" title="Phong cách Xu hướng">Phong cách Xu hướng</a></li>
+        <li><a href="/phong-cach-xu-huong" title="Phong cách Xu hướng">Phong cách - Xu hướng</a></li>
         <li><a href="/lien-he" title="Liên hệ">Liên hệ</a></li>
       </ul>
     </nav>
     <div class="right-head">
       <div class="search-btn">
-        <svg class="icon-svg"><use xlink:href="assets/images/icons/icon.svg#search"></use></svg>
-        <svg class="icon-svg close"><use xlink:href="assets/images/icons/icon.svg#close2"></use></svg>
+        <svg class="icon-svg"><use xlink:href="assets/images/icon.svg#search"></use></svg>
+        <svg class="icon-svg close"><use xlink:href="assets/images/icon.svg#close2"></use></svg>
       </div>
       <div class="language">
           <a class="active" href="">VI</a>
@@ -244,21 +244,21 @@ layout: default
                 <article class="item-news full-thumb">
                     <div class="thumb-art hover-scale">
                         <a class="thumb thumb_5x3"
-                            href="/phat-trien-ben-vung/chien-luoc-quy-hoach-do-thi-ben-vung-cua-van-phu-invest-con-nguoi-lam-trung-tam-tu-nhien-lam-nen-tang"
-                            title="Chiến lược quy hoạch đô thị bền vững của Văn Phú - Invest: Con người làm trung tâm, tự nhiên làm nền tảng">
+                            href="#"
+                            title="Chiến lược quy hoạch đô thị bền vững của Sakae: Con người làm trung tâm, tự nhiên làm nền tảng">
                             <img src="assets/images/Khu%20do%20thi%20over.png">
                         </a>
                     </div>
                     <div class="content">
                         <div class="date">27/10/2022</div>
                         <h2 class="title-news">
-                            <a href="/phat-trien-ben-vung/chien-luoc-quy-hoach-do-thi-ben-vung-cua-van-phu-invest-con-nguoi-lam-trung-tam-tu-nhien-lam-nen-tang"
-                                title="Chiến lược quy hoạch đô thị bền vững của Văn Phú - Invest: Con người làm trung tâm, tự nhiên làm nền tảng">Chiến
-                                lược quy hoạch đô thị bền vững của Văn Phú - Invest: Con người làm trung tâm, tự nhiên
+                            <a href="#"
+                                title="Chiến lược quy hoạch đô thị bền vững của Sakae: Con người làm trung tâm, tự nhiên làm nền tảng">Chiến
+                                lược quy hoạch đô thị bền vững của Sakae: Con người làm trung tâm, tự nhiên
                                 làm nền tảng</a>
                         </h2>
                         <a class="view-more"
-                            href="/phat-trien-ben-vung/chien-luoc-quy-hoach-do-thi-ben-vung-cua-van-phu-invest-con-nguoi-lam-trung-tam-tu-nhien-lam-nen-tang">ĐỌC
+                            href="#">ĐỌC
                             THÊM →</a>
                     </div>
                 </article>
@@ -267,41 +267,41 @@ layout: default
                 <article class="item-news">
                     <div class="thumb-art hover-scale">
                         <a class="thumb thumb_5x4"
-                            href="/tin-tuc/chien-luoc-quy-hoach-do-thi-ben-vung-cua-van-phu-invest-con-nguoi-lam-trung-tam-tu-nhien-lam-nen-tang"
-                            title="Chiến lược quy hoạch đô thị bền vững của Văn Phú - Invest: Con người làm trung tâm, tự nhiên làm nền tảng">
+                            href="#"
+                            title="Chiến lược quy hoạch đô thị bền vững của Sakae: Con người làm trung tâm, tự nhiên làm nền tảng">
                             <img src="assets/images/Khu%20do%20thi%20over.png">
                         </a>
                     </div>
                     <div class="content">
                         <div class="date">27/10/2022</div>
                         <h3 class="title-news">
-                            <a href="/tin-tuc/chien-luoc-quy-hoach-do-thi-ben-vung-cua-van-phu-invest-con-nguoi-lam-trung-tam-tu-nhien-lam-nen-tang"
-                                title="Chiến lược quy hoạch đô thị bền vững của Văn Phú - Invest: Con người làm trung tâm, tự nhiên làm nền tảng">Chiến
-                                lược quy hoạch đô thị bền vững của Văn Phú - Invest: Con người làm trung tâm, tự nhiên
+                            <a href="#"
+                                title="Chiến lược quy hoạch đô thị bền vững của Sakae: Con người làm trung tâm, tự nhiên làm nền tảng">Chiến
+                                lược quy hoạch đô thị bền vững của Sakae: Con người làm trung tâm, tự nhiên
                                 làm nền tảng</a>
                         </h3>
                         <a class="view-more"
-                            href="/tin-tuc/chien-luoc-quy-hoach-do-thi-ben-vung-cua-van-phu-invest-con-nguoi-lam-trung-tam-tu-nhien-lam-nen-tang">ĐỌC
+                            href="#">ĐỌC
                             THÊM →</a>
                     </div>
                 </article>
                 <article class="item-news">
                     <div class="thumb-art hover-scale">
                         <a class="thumb thumb_5x4"
-                            href="/tin-tuc/van-phu-invest-nhan-giai-thuong-danh-gia-propertyguru-vietnam-property-awards-2022"
-                            title="Văn Phú - Invest nhận giải thưởng danh giá PropertyGuru Vietnam Property Awards 2022">
+                            href="#"
+                            title="Sakae nhận giải thưởng danh giá PropertyGuru Vietnam Property Awards 2022">
                             <img src="assets/images/guru1.jpg">
                         </a>
                     </div>
                     <div class="content">
                         <div class="date">25/10/2022</div>
                         <h3 class="title-news">
-                            <a href="/tin-tuc/van-phu-invest-nhan-giai-thuong-danh-gia-propertyguru-vietnam-property-awards-2022"
-                                title="Văn Phú - Invest nhận giải thưởng danh giá PropertyGuru Vietnam Property Awards 2022">Văn
+                            <a href="#"
+                                title="Sakae nhận giải thưởng danh giá PropertyGuru Vietnam Property Awards 2022">Văn
                                 Phú - Invest nhận giải thưởng danh giá PropertyGuru Vietnam Property Awards 2022</a>
                         </h3>
                         <a class="view-more"
-                            href="/tin-tuc/van-phu-invest-nhan-giai-thuong-danh-gia-propertyguru-vietnam-property-awards-2022">ĐỌC
+                            href="#">ĐỌC
                             THÊM →</a>
                     </div>
                 </article>
@@ -379,16 +379,16 @@ layout: default
                 <article class="item-news full-thumb">
                     <div class="thumb-art">
                         <a class="thumb thumb_5x4"
-                            href="/thu-vien-anh/kham-pha-van-phong-lam-viec-dam-chat-nghe-thuat-cua-van-phu-invest"
-                            title="Khám phá văn phòng làm việc đậm chất nghệ thuật của Văn Phú - Invest">
+                            href="#"
+                            title="Khám phá văn phòng làm việc đậm chất nghệ thuật của Sakae">
                             <img src="assets/images/VPI_Tranh%20NT%20(48).jpg">
                         </a>
                     </div>
                     <div class="content">
                         <h3 class="title-news">
-                            <a href="/thu-vien-anh/kham-pha-van-phong-lam-viec-dam-chat-nghe-thuat-cua-van-phu-invest"
-                                title="Khám phá văn phòng làm việc đậm chất nghệ thuật của Văn Phú - Invest">Khám phá
-                                văn phòng làm việc đậm chất nghệ thuật của Văn Phú - Invest</a>
+                            <a href="#"
+                                title="Khám phá văn phòng làm việc đậm chất nghệ thuật của Sakae">Khám phá
+                                văn phòng làm việc đậm chất nghệ thuật của Sakae</a>
                         </h3>
                     </div>
                 </article>
@@ -396,7 +396,7 @@ layout: default
             <div class="swiper-slide">
                 <article class="item-news full-thumb">
                     <div class="thumb-art">
-                        <a class="thumb thumb_5x4" href="/2021/le-an-vi-den-tho-vua-hung-thanh-pho-can-tho"
+                        <a class="thumb thumb_5x4" href="#"
                             title="Lễ An vị - Đền thờ Vua Hùng Thành phố Cần Thơ">
                             <img
                                 src="assets/images/File-175.jpg">
@@ -404,7 +404,7 @@ layout: default
                     </div>
                     <div class="content">
                         <h3 class="title-news">
-                            <a href="/2021/le-an-vi-den-tho-vua-hung-thanh-pho-can-tho"
+                            <a href="#"
                                 title="Lễ An vị - Đền thờ Vua Hùng Thành phố Cần Thơ">Lễ An vị - Đền thờ Vua Hùng Thành
                                 phố Cần Thơ</a>
                         </h3>
@@ -415,7 +415,7 @@ layout: default
                 <article class="item-news full-thumb">
                     <div class="thumb-art">
                         <a class="thumb thumb_5x4"
-                            href="/2021/le-ruoc-linh-khi-tu-den-tho-vua-hung-phu-tho-toi-den-tho-vua-hung-thanh-pho-can-tho"
+                            href="#"
                             title="Lễ rước Linh khí từ Đền thờ Vua Hùng Phú Thọ tới Đền thờ Vua Hùng Thành Phố Cần Thơ">
                             <img
                                 src="assets/images/File-277.jpg">
@@ -423,7 +423,7 @@ layout: default
                     </div>
                     <div class="content">
                         <h3 class="title-news">
-                            <a href="/2021/le-ruoc-linh-khi-tu-den-tho-vua-hung-phu-tho-toi-den-tho-vua-hung-thanh-pho-can-tho"
+                            <a href="#"
                                 title="Lễ rước Linh khí từ Đền thờ Vua Hùng Phú Thọ tới Đền thờ Vua Hùng Thành Phố Cần Thơ">Lễ
                                 rước Linh khí từ Đền thờ Vua Hùng Phú Thọ tới Đền thờ Vua Hùng Thành Phố Cần Thơ</a>
                         </h3>
@@ -434,7 +434,7 @@ layout: default
                 <article class="item-news full-thumb">
                     <div class="thumb-art">
                         <a class="thumb thumb_5x4"
-                            href="/2021/chu-tich-quoc-hoi-nuoc-chxhcn-viet-nam-va-doan-lanh-dao-thanh-pho-can-tho-den-tham-kiem-tra-gan-bien-va-trong-cay-luu-niem"
+                            href="#"
                             title="Chủ tịch Quốc hội nước CHXHCN Việt Nam và đoàn Lãnh đạo Thành phố Cần Thơ đến thăm, kiểm tra, gắn biển và trồng cây lưu niệm">
                             <img
                                 src="assets/images/TABI3467.JPG">
@@ -442,7 +442,7 @@ layout: default
                     </div>
                     <div class="content">
                         <h3 class="title-news">
-                            <a href="/2021/chu-tich-quoc-hoi-nuoc-chxhcn-viet-nam-va-doan-lanh-dao-thanh-pho-can-tho-den-tham-kiem-tra-gan-bien-va-trong-cay-luu-niem"
+                            <a href="#"
                                 title="Chủ tịch Quốc hội nước CHXHCN Việt Nam và đoàn Lãnh đạo Thành phố Cần Thơ đến thăm, kiểm tra, gắn biển và trồng cây lưu niệm">Chủ
                                 tịch Quốc hội nước CHXHCN Việt Nam và đoàn Lãnh đạo Thành phố Cần Thơ đến thăm, kiểm
                                 tra, gắn biển và trồng cây lưu niệm</a>
@@ -454,14 +454,14 @@ layout: default
                 <article class="item-news full-thumb">
                     <div class="thumb-art">
                         <a class="thumb thumb_5x4"
-                            href="/thu-vien-anh/chu-tich-quoc-hoi-nuoc-chxhcn-viet-nam-vinh-danh-doanh-nghiep-co-nhieu-dong-gop-ho-tro-cho-cong-dong"
+                            href="#"
                             title="Chủ tịch Quốc hội nước CHXHCN Việt Nam vinh danh doanh nghiệp có nhiều đóng góp, hỗ trợ cho cộng đồng">
                             <img src="assets/images/Anh%201_VPI.jpg">
                         </a>
                     </div>
                     <div class="content">
                         <h3 class="title-news">
-                            <a href="/thu-vien-anh/chu-tich-quoc-hoi-nuoc-chxhcn-viet-nam-vinh-danh-doanh-nghiep-co-nhieu-dong-gop-ho-tro-cho-cong-dong"
+                            <a href="#"
                                 title="Chủ tịch Quốc hội nước CHXHCN Việt Nam vinh danh doanh nghiệp có nhiều đóng góp, hỗ trợ cho cộng đồng">Chủ
                                 tịch Quốc hội nước CHXHCN Việt Nam vinh danh doanh nghiệp có nhiều đóng góp, hỗ trợ cho
                                 cộng đồng</a>
@@ -473,15 +473,15 @@ layout: default
                 <article class="item-news full-thumb">
                     <div class="thumb-art">
                         <a class="thumb thumb_5x4"
-                            href="/thu-vien-anh/vpi-nhan-giai-top-50-nhan-hieu-noi-tieng-viet-nam"
+                            href="#"
                             title="VPI nhận giải &quot;Top 50 Nhãn hiệu nổi tiếng Việt Nam”">
                             <img src="assets/images/Nhan%20hieu%20hang%20dau%20VN.jpg">
                         </a>
                     </div>
                     <div class="content">
                         <h3 class="title-news">
-                            <a href="/thu-vien-anh/vpi-nhan-giai-top-50-nhan-hieu-noi-tieng-viet-nam"
-                                title="VPI nhận giải &quot;Top 50 Nhãn hiệu nổi tiếng Việt Nam”">VPI nhận giải &quot;Top
+                            <a href="#"
+                                title="VPI nhận giải &quot;Top 50 Nhãn hiệu nổi tiếng Việt Nam”">Sakae nhận giải &quot;Top
                                 50 Nhãn hiệu nổi tiếng Việt Nam”</a>
                         </h3>
                     </div>
@@ -491,16 +491,15 @@ layout: default
                 <article class="item-news full-thumb">
                     <div class="thumb-art">
                         <a class="thumb thumb_5x4"
-                            href="/thu-vien-anh/the-van-phu-victoria-nhan-danh-hieu-du-an-hut-dong-tien-dau-tu"
-                            title="The Van Phu - Victoria nhận danh hiệu Dự án hút dòng tiền đầu tư">
+                            href="#"
+                            title="Sakae nhận danh hiệu Dự án hút dòng tiền đầu tư">
                             <img src="assets/images/Du%20an%20hut%20dong%20tien.jpg">
                         </a>
                     </div>
                     <div class="content">
                         <h3 class="title-news">
-                            <a href="/thu-vien-anh/the-van-phu-victoria-nhan-danh-hieu-du-an-hut-dong-tien-dau-tu"
-                                title="The Van Phu - Victoria nhận danh hiệu Dự án hút dòng tiền đầu tư">The Van Phu -
-                                Victoria nhận danh hiệu Dự án hút dòng tiền đầu tư</a>
+                            <a href="#"
+                                title="Sakae nhận danh hiệu Dự án hút dòng tiền đầu tư">Sakae nhận danh hiệu Dự án hút dòng tiền đầu tư</a>
                         </h3>
                     </div>
                 </article>
@@ -509,14 +508,14 @@ layout: default
                 <article class="item-news full-thumb">
                     <div class="thumb-art">
                         <a class="thumb thumb_5x4"
-                            href="/thu-vien-anh/ubnd-tinh-ben-tre-trao-tang-bang-khen-cho-doanh-nghiep-co-nhieu-dong-gop-tich-cuc-trong-cong-tac-thien-nguyen-voi-muc-tieu-an-sinh-xa-hoi-tai-dia-phuong"
+                            href="#"
                             title="UBND tỉnh Bến Tre trao tặng bằng khen cho doanh nghiệp có nhiều đóng góp tích cực trong công tác thiện nguyện, với mục tiêu an sinh xã hội tại địa phương">
                             <img src="assets/images/IMG_9583.JPG">
                         </a>
                     </div>
                     <div class="content">
                         <h3 class="title-news">
-                            <a href="/thu-vien-anh/ubnd-tinh-ben-tre-trao-tang-bang-khen-cho-doanh-nghiep-co-nhieu-dong-gop-tich-cuc-trong-cong-tac-thien-nguyen-voi-muc-tieu-an-sinh-xa-hoi-tai-dia-phuong"
+                            <a href="#"
                                 title="UBND tỉnh Bến Tre trao tặng bằng khen cho doanh nghiệp có nhiều đóng góp tích cực trong công tác thiện nguyện, với mục tiêu an sinh xã hội tại địa phương">UBND
                                 tỉnh Bến Tre trao tặng bằng khen cho doanh nghiệp có nhiều đóng góp tích cực trong công
                                 tác thiện nguyện, với mục tiêu an sinh xã hội tại địa phương</a>
@@ -527,7 +526,7 @@ layout: default
             <div class="swiper-slide">
                 <article class="item-news full-thumb">
                     <div class="thumb-art">
-                        <a class="thumb thumb_5x4" href="/2019/khoi-cong-du-an-den-tho-vua-hung-thanh-pho-can-tho"
+                        <a class="thumb thumb_5x4" href="#"
                             title="Khởi công dự án Đền thờ Vua Hùng Thành phố Cần Thơ">
                             <img
                                 src="assets/images/IMG_2111.JPG">
@@ -535,7 +534,7 @@ layout: default
                     </div>
                     <div class="content">
                         <h3 class="title-news">
-                            <a href="/2019/khoi-cong-du-an-den-tho-vua-hung-thanh-pho-can-tho"
+                            <a href="#"
                                 title="Khởi công dự án Đền thờ Vua Hùng Thành phố Cần Thơ">Khởi công dự án Đền thờ Vua
                                 Hùng Thành phố Cần Thơ</a>
                         </h3>
